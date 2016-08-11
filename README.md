@@ -9,8 +9,6 @@ http://github.com/Automic-Community/JUnit-Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_JUNIT_4_1.0.0.zip
-								
 								*JUnit_Action_Pack_Documentation.pdf
 								
 								*junit_logo.png
